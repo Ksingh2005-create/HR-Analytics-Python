@@ -8,9 +8,9 @@ Using Python and its data analysis libraries, the project demonstrates the compl
 
 The primary objective of this project is to help HR professionals make data-driven decisions that improve employee retention, optimize workforce management, and support organizational growth.
 
----
 
-# 🎯 Project Objectives
+
+#  Project Objectives
 
 The objectives of this project are:
 
@@ -24,9 +24,9 @@ The objectives of this project are:
 - Generate business insights to improve employee retention.
 - Present findings through professional data visualizations.
 
----
 
-# 🛠️ Technologies Used
+
+#  Technologies Used
 
 - Python
 - Pandas
@@ -35,9 +35,9 @@ The objectives of this project are:
 - Seaborn
 - Google Colab
 
----
 
-# 📂 Dataset Description
+
+#  Dataset Description
 
 The dataset contains approximately **15,000 employee records** with multiple HR-related attributes.
 
@@ -70,9 +70,9 @@ Some of the important columns include:
 - Business Travel
 - Remote Work
 
----
 
-# 🔄 Project Workflow
+
+#  Project Workflow
 
 The project was completed in the following phases:
 
@@ -86,7 +86,7 @@ The project was completed in the following phases:
 - Identified missing values.
 - Generated summary statistics.
 
----
+
 
 ### Phase 2 – Data Cleaning
 
@@ -97,7 +97,7 @@ The project was completed in the following phases:
 - Verified data types.
 - Saved the cleaned dataset.
 
----
+
 
 ### Phase 3 – Feature Engineering
 
@@ -115,7 +115,7 @@ Created additional features including:
 
 These features improved business analysis and visualization.
 
----
+
 
 ### Phase 4 – Univariate Analysis
 
@@ -137,7 +137,7 @@ Key analyses included:
 - Performance Rating
 - Attrition Distribution
 
----
+
 
 ### Phase 5 – Bivariate Analysis
 
@@ -153,7 +153,6 @@ Examples include:
 - Business Travel vs Attrition
 - Work-Life Balance vs Attrition
 
----
 
 ### Phase 6 – Multivariate Analysis
 
@@ -166,7 +165,7 @@ Performed advanced business analysis using:
 - Salary and Performance Analysis
 - Experience Analysis
 
----
+
 
 ### Phase 7 – KPI Analysis
 
@@ -182,7 +181,7 @@ Calculated important HR KPIs such as:
 - Employee Distribution
 - Top Paying Job Roles
 
----
+
 
 ### Phase 8 – Executive Dashboard
 
@@ -197,15 +196,15 @@ Created an executive HR dashboard including:
 
 The dashboard provides a high-level overview of workforce performance.
 
----
+
 
 ### Phase 9 – Business Insights & Recommendations
 
 Summarized important findings and proposed recommendations for improving workforce management.
 
----
 
-# 📊 Exploratory Data Analysis (EDA)
+
+#  Exploratory Data Analysis (EDA)
 
 The project includes comprehensive exploratory data analysis using various visualizations:
 
@@ -220,9 +219,9 @@ The project includes comprehensive exploratory data analysis using various visua
 - Overtime Analysis
 - KPI Dashboard
 
----
 
-# 📈 Key Business Insights
+
+#  Key Business Insights
 
 The analysis provided several valuable insights, including:
 
@@ -234,9 +233,9 @@ The analysis provided several valuable insights, including:
 - Department-wise performance differences were identified.
 - Workforce KPIs highlighted opportunities for improving employee engagement and retention.
 
----
 
-# 💡 Business Recommendations
+
+#  Business Recommendations
 
 Based on the analysis, the following recommendations were made:
 
@@ -249,9 +248,9 @@ Based on the analysis, the following recommendations were made:
 - Improve managerial support through leadership development programs.
 - Monitor HR KPIs regularly for proactive decision-making.
 
----
 
-# 📊 Skills Demonstrated
+
+#  Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -266,33 +265,16 @@ This project demonstrates practical experience in:
 - Problem Solving
 - Python Programming
 
----
 
-# 📸 Project Screenshots
-
-You can include screenshots of:
-
-- Dashboard
-- Attrition Analysis
-- Salary Distribution
-- Department Analysis
-- KPI Summary
-
-Example:
-
-![Dashboard](dashboard.png)
-
----
-
-# 🚀 Project Outcome
+#  Project Outcome
 
 The project successfully transformed raw HR data into meaningful business insights using Python.
 
 The analysis demonstrates how organizations can leverage data analytics to improve employee retention, enhance workforce productivity, and support data-driven HR decision-making.
 
----
 
-# 📚 Future Improvements
+
+# Future Improvements
 
 Possible future enhancements include:
 
@@ -302,27 +284,6 @@ Possible future enhancements include:
 - Employee Sentiment Analysis
 - Predictive Workforce Analytics
 
----
 
-# 👨‍💻 Author
 
-**Kartik Singh**
 
-Aspiring Data Analyst
-
-### Skills
-
-- Python
-- SQL
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-GitHub Profile:
-https://github.com/Ksingh2005-create
-
----
-
-# ⭐ If you found this project helpful, consider giving it a Star!
